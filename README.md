@@ -2,11 +2,11 @@
 
 This repo contains the starter code for the Route Planning project.
 
-<img src="algo.png" width="600" height="450" />
+<img src="map.png" width="600" height="450" />
 
 # Algorithm
 
-<img src="map.png" width="600" height="450" />
+<img src="algo.png" width="600" height="450" />
 
 ## Cloning
 
